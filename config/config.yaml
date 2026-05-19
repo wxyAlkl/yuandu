@@ -77,6 +77,8 @@ platforms:
       name: "抖音"
     - id: "zhihu"
       name: "知乎"
+    - id: "hupu"
+      name: "虎扑"
       
 # === 财经投资类 ===
     - id: "wallstreetcn-hot"
